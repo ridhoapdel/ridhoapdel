@@ -1,11 +1,13 @@
-Domain Parking Page
-=============
-Parked domains Owned by [ridhoapdel][apdel] will be pointed to this html webpage, which can be accessed via the following url: [apdel.pages.dev][landing-url]
+```jsonc
+{
+  "ridhoapdel": {
+    "why":  "want to swim to the internet.",
+    "does": ["html", "css", "php"], // i'm still learning how to code and be a better person.
+    "at": ["ridhoapdel.com", "apdel.me"] // and more
+  }
+}
+```
 
-The javascript code inside this template, automatically sets the url displayed on the page to be the current host.
+---
 
-## Contact
-[Email](/mailto:ridho@apdel.me)
-
-[apdel]: https://ridhoapdel.com/
-[landing-url]: http://oasis.web.app/
+[works](https://ridhoapdel.com) · [blog](https://blog.apdel.me) · [email](mailto:ridho@apdel.me)
