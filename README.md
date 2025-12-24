@@ -10,4 +10,4 @@
 
 ---
 
-[email](mailto:ridho@apdel.me)
+[text me for everything](mailto:ridho@apdel.me)
