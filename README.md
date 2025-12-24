@@ -10,4 +10,4 @@
 
 ---
 
-[works](https://ridhoapdel.com) · [blog](https://blog.apdel.me) · [email](mailto:ridho@apdel.me)
+[email](mailto:ridho@apdel.me)
